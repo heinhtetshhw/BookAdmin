@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "506947205408",
+    "firebase_url": "https://audiobookadmin.firebaseio.com",
+    "project_id": "audiobookadmin",
+    "storage_bucket": "audiobookadmin.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:506947205408:android:66a81692a80c6d5f2bff45",
+        "android_client_info": {
+          "package_name": "com.shhw.bookadminapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "506947205408-h5uskbn0ve2ap3ieos1paa6u4uickp2q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.shhw.bookadminapp",
+            "certificate_hash": "949419fb22361e7f85d836fe3a59cd8173040eba"
+          }
+        },
+        {
+          "client_id": "506947205408-njlk6hpjt4b0ogm2h08at0trjgspni28.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDGWP6jy2ffAysMfuSJnVzodvZXTwlyC8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "506947205408-njlk6hpjt4b0ogm2h08at0trjgspni28.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
